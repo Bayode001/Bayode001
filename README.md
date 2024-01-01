@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bayode' Famuyide
 - 👀 I’m interested in Data Analytics and Business Inteligence
-- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Analytics and Visualization
 - 📫 How to reach me @ famuyideb@gmail.com
 
