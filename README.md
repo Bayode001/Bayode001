@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bayode' Famuyide
-- 👀 I’m interested in Data Analytics and Business Inteligence
-- 💞️ I’m looking to collaborate on Data Analytics and Visualization
+- 👀 I’m interested in Amazon Web Service (AWS); Business Inteligence and Data Analytics 
+- 💞️ I’m looking forward to collaborate on AWS; Business Inteligence and Data Analytics 
 - 📫 How to reach me @ famuyideb@gmail.com
 
 <!---
